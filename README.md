@@ -36,42 +36,22 @@ Este proyecto presenta un sistema de análisis de datos y visualización en Powe
 
 ## 📊 Dashboards Desarrollados
 
-1. **Costo Unitario por Mezcla**  
-   Variación de costos por tipo de concreto.
-
-2. **Compra vs Consumo de Cemento**  
-   Detección de pérdidas en stock vs consumo real.
-
-3. **Reporte de Producción**  
-   Volumen producido, eficiencia y cumplimiento.
-
-4. **Análisis de Pérdida de Materiales**  
-   Entradas vs salidas de insumos y porcentaje de pérdida.
-
-5. **Dashboard Ejecutivo**  
-   Panel general para decisiones estratégicas.
-
----
-
-📄 Documentos Adjuntos
-
-Documento
-
-Descripción
-
-📊 [REPORTE DE PRODUCCION (PDF)](./REPORTE DE PRODUCCION.pdf)
+📊 [**REPORTE DE PRODUCCION**](./REPORTE%20DE%20PRODUCCION.pdf)
 
 Producción por mezcla, costos y rendimiento.
 
-📆 REPORTE TRIMESTRAL Y SEMANAL
+📆 [**REPORTE TRIMESTRAL Y SEMANAL**](./REPORTE%20TRIMESTRAL%20Y%20SEMANAL.pdf)
 
 Resumen operativo por semana y trimestre.
 
-🧪 ANÁLISIS DE PREPARACION DE MEZCLAS
+🧪 [**ANÁLISIS DE PREPARACION DE MEZCLAS**](./AN%C3%81LISIS%20DE%20PREPARACION%20DE%20MEZCLAS.pdf)
 
 Costos unitarios y rendimiento por tipo de mezcla.
 
-📦 MOVIMIENTO DE MATERIALES
+📦 [**MOVIMIENTO DE MATERIALES**](./MOVIMIENTO%20DE%20MATERIALES.pdf)
+
+Flujo de entradas y salidas para control de inventario.
+ 
 ## 📈 Resultados Obtenidos
 Flujo de entradas y salidas para control de inventario.
 - 🔹 Reducción de pérdidas materiales en un **15%**.
