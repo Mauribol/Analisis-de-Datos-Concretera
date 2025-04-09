@@ -53,8 +53,27 @@ Este proyecto presenta un sistema de análisis de datos y visualización en Powe
 
 ---
 
-## 📈 Resultados Obtenidos
+📄 Documentos Adjuntos
 
+Documento
+
+Descripción
+
+📊 REPORTE DE PRODUCCION
+
+Producción por mezcla, costos y rendimiento.
+
+📆 REPORTE TRIMESTRAL Y SEMANAL
+
+Resumen operativo por semana y trimestre.
+
+🧪 ANÁLISIS DE PREPARACION DE MEZCLAS
+
+Costos unitarios y rendimiento por tipo de mezcla.
+
+📦 MOVIMIENTO DE MATERIALES
+
+Flujo de entradas y salidas para control de inventario.
 - 🔹 Reducción de pérdidas materiales en un **15%**.
 - 🔹 Visualización clara de los costos por mezcla y semana.
 - 🔹 Automatización de reportes redujo tiempos en un **40%**.
