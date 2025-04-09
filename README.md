@@ -59,7 +59,7 @@ Documento
 
 Descripción
 
-📊 REPORTE DE PRODUCCION
+📊 [REPORTE DE PRODUCCION (PDF)](./REPORTE DE PRODUCCION.pdf)
 
 Producción por mezcla, costos y rendimiento.
 
@@ -72,7 +72,7 @@ Resumen operativo por semana y trimestre.
 Costos unitarios y rendimiento por tipo de mezcla.
 
 📦 MOVIMIENTO DE MATERIALES
-
+## 📈 Resultados Obtenidos
 Flujo de entradas y salidas para control de inventario.
 - 🔹 Reducción de pérdidas materiales en un **15%**.
 - 🔹 Visualización clara de los costos por mezcla y semana.
