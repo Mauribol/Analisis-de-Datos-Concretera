@@ -52,7 +52,7 @@ Reporte operativo y de producción donde se observan la cantidad de concreto pro
 
 Detección de cantidades irregulares de consumo de cemento por mezcla utilizando el algoritmo Tree Isolation
 
-🧪 [**ANÁLISIS POR DISPERSION LINEAL DE MEZCLAS**]
+🧪 [**ANÁLISIS POR REGRESION LINEAL DE MEZCLAS**]
 
 Prediccion de cantidades de insumos para utilizar según el tipo y cantidad de mezcla, detecta mezclas pobres o saturadas de material.
 
