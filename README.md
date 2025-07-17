@@ -1,4 +1,4 @@
-# Analisis-de-Datos---Concretera
+# Analisis-de-Datos-Concretera
 Este proyecto presenta un sistema de análisis de datos y visualización en Power BI enfocado en la gestión de materiales, costos y eficiencia operativa de una concretera. Se utilizaron herramientas como SQL, Python, Power BI y Excel para modelar, automatizar y presentar datos clave para la toma de decisiones estratégicas.
 ## 📌 Objetivos del Proyecto
 
@@ -36,17 +36,27 @@ Este proyecto presenta un sistema de análisis de datos y visualización en Powe
 
 ## 📊 Dashboards Desarrollados
 
-📊 [**REPORTE DE PRODUCCION**](./REPORTE%20DE%20PRODUCCION.pdf)
+📊 [**REPORTE GENERAL**]
 
-Producción por mezcla, costos y rendimiento.
+Reporte ejecutivo quincenal en el cual se muestra un resumen de produccion, inventarios, ganancias y ventas.
 
-📆 [**REPORTE TRIMESTRAL Y SEMANAL**](./REPORTE%20TRIMESTRAL%20Y%20SEMANAL.pdf)
+📆 [**REPORTE TRIMESTRAL Y SEMANAL**]
 
 Resumen operativo por semana y trimestre.
 
-🧪 [**ANÁLISIS DE PREPARACION DE MEZCLAS**](./AN%C3%81LISIS%20DE%20PREPARACION%20DE%20MEZCLAS.pdf)
+📊 [**REPORTE DE CONSUMO**]
 
-Costos unitarios y rendimiento por tipo de mezcla.
+Reporte operativo y de producción donde se observan la cantidad de concreto producido por mezcla y la cantidad de materiales consumidos.
+
+🧪 [**ANÁLISIS DE PREPARACION DE MEZCLAS**]
+
+Detección de cantidades irregulares de consumo de cemento por mezcla utilizando el algoritmo Tree Isolation
+
+🧪 [**ANÁLISIS POR DISPERSION LINEAL DE MEZCLAS**]
+
+Prediccion de cantidades de insumos para utilizar según el tipo y cantidad de mezcla, detecta mezclas pobres o saturadas de material.
+
+
 
  
 ## 📈 Resultados Obtenidos
