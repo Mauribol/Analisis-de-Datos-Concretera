@@ -48,9 +48,6 @@ Resumen operativo por semana y trimestre.
 
 Costos unitarios y rendimiento por tipo de mezcla.
 
-📦 [**MOVIMIENTO DE MATERIALES**](./MOVIMIENTO%20DE%20MATERIALES.pdf)
-
-Flujo de entradas y salidas para control de inventario.
  
 ## 📈 Resultados Obtenidos
 Flujo de entradas y salidas para control de inventario.
