@@ -9,8 +9,8 @@ Los análisis incluidos abordan:
 - Análisis de consumo de materiales por mezcla
 - Identificación de pérdidas y desperdicio de materiales
 - Aplicación de modelos de Machine Learning para análisis predictivo y detección de anomalías:
---Regresión Lineal para estimación de costos
---Isolation Forest para detección de valores atípicos en consumo de materiales
+- Regresión Lineal para estimación de consumo de material
+- Isolation Forest para detección de valores atípicos en consumo de materiales
 
 ## 🧰 Tecnologías y Lenguajes
 
